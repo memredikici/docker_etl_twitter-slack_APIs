@@ -30,8 +30,10 @@ Followings applied:
 - time
 
 ### Setup
-The main reason of using docker-container is to make setup easy.  
-Here you can find Docker commands:
+The main reason of using docker-container is to make setup easy.
+Before creating Docker-Containers, you need Twitter Developer Account to get `API KEY`, `API SECRET` and `access token`, `access token secret`.  
+You can apply twitter dev-acc [here](https://developer.twitter.com/en/apply).  
+After you get key and secret, you are ready to create Docker-Compose using Docker commands:
 - For running these commands you need to `cd` into the folder that contains the `docker-compose.yml` file.
 
 - (re-)build images of services 
