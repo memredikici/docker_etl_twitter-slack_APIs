@@ -57,4 +57,4 @@ Here you can find Docker commands:
 ### Status
 The goal of this project is almost accomplished. Some creative ideas for the use of Tweets can be applied to program:
 1. Tweets of some specific users could be collected, analyzed and compared their sentiments.
-2. Creating a problem which collects your own tweets and gives you a feedback.
+2. Creating a program which collects your own tweets and gives you a feedback according to your tweets' sentiments.
